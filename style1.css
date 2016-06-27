@@ -83,16 +83,18 @@ body {
 .player {
   text-align: center;
   display: inline-block;
-  width: 100%;
+  width: 250px;
   margin: 0 auto;
   position: relative;
+  float: left;
 }
 
 .dealer {
   text-align: center;
   display: inline-block;
-  width: 100%;
+  width: 250px;
   margin: 0 auto;
   position: relative;
+  float: left;
 }
 
