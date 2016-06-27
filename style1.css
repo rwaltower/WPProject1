@@ -84,17 +84,15 @@ body {
   text-align: center;
   display: inline-block;
   width: 250px;
-  margin-bottom: 5px;
-  position: relative;
-  float: left;
+  bottom: 5px;
+  position: fixed;
 }
 
 .dealer {
   text-align: center;
   display: inline-block;
   width: 250px;
-  margin-top: 5px;
-  position: relative;
-  float: left;
+  top: 5px;
+  position: fixed;
 }
 
