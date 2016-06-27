@@ -71,14 +71,14 @@ body {
 }
 
 .img_swap1 {
-  background-image: url("b1fv.png");
+  background-image: url("b1fv.png") no-repeat;
   background-size: 100%
   width: 100px;
   height: 135.2px;
 }
 
 .img_swap2 {
-  background-image: url("b1fv.png");
+  background-image: url("b1fv.png") no-repeat;
   background-size: 100%
   width: 100px;
   height: 135.2px;
