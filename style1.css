@@ -26,8 +26,17 @@ body {
 .card-layer {
   width: 200px;
   height: 270px;
-  position: absolute;
+  position: relative;
+  background-color: #000000;
+  display: inline-block;
   
+}
+
+.caption, .caption1, .caption2, .caption3, .caption4 {
+  position: absolute;
+  color: #FFFFFF;
+  text-align: center;
+  width: 95px;
 }
 
 .card-layer:hover .card-layer {
@@ -45,15 +54,12 @@ body {
 .card1-layer, .card2-layer, .card3-layer, .card4-layer {
   width: 100px;
   height: 135px;
-  position: absolute;
-}
-
-.card:hover .card-layer, .card:hover .card1-layer, .card:hover .card2-layer, .card:hover .card3-layer, .card:hover .card4-layer {
-  opacity: 0.75;
+  position: relative;
   background-color: #000000;
+  display: inline-block;
 }
 
-.card: hover .card, .card1:hover .card1, .card2:hover .card2, .card3:hover .card3, .card4:hover .card4 {
+.card-layer:hover .card, .card1-layer:hover .card1, .card2-layer:hover .card2, .card3-layer:hover .card3, .card4-layer:hover .card4 {
   opacity: 0.25;
 }
 
