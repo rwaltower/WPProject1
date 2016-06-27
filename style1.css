@@ -15,6 +15,10 @@ body {
   width: 200px;
 }
 
+.card1, .card2, .card3, .card4 {
+  width: 100px;
+}
+
 .player {
   text-align: center;
   display: inline-block;
