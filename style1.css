@@ -91,18 +91,20 @@ body {
 }
 
 .player {
-  text-align: center;
-  display: inline-block;
-  width: 250px;
-  bottom: 5px;
-  position: fixed;
+  width: 100%;
+  height: auto;
 }
 
 .dealer {
-  text-align: center;
-  display: inline-block;
-  width: 250px;
-  top: 5px;
-  position: fixed;
+  width: 100%;
+  height: auto;
+}
+
+.player img{
+  display: block;
+}
+
+.dealer img{
+  display: block;
 }
 
