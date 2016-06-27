@@ -82,21 +82,21 @@ body {
 }
 
 .player {
-  width: 205;
+  width: 310px;
   height: 150px;
   text-align: center;
 
 }
 
 .dealer {
-  width: 205;
+  width: 310px;
   height: 150px;
   text-align: center;
 
 }
 
 .img-wrap, .img-wrap2 {
-  width: 300px;
+  width: 305px;
   height: 140px;
   margin: 0 auto;
   position: relative;
