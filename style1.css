@@ -107,6 +107,11 @@ body {
   position: relative;
 }
 
+.extra {
+  position: fixed;
+  top: 5px;
+}
+
 .exit {
   float: left;
 }
