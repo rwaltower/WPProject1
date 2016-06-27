@@ -93,18 +93,17 @@ body {
 .player {
   width: 100%;
   height: auto;
+  text-align: center;
 }
 
 .dealer {
   width: 100%;
   height: auto;
+  text-align: center;
 }
 
-.player img{
-  display: block;
-}
-
-.dealer img{
-  display: block;
+.img-wrap, .img-wrap2 {
+  width: 200px;
+  margin: 0 auto;
 }
 
