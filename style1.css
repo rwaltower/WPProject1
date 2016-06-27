@@ -83,7 +83,7 @@ body {
 .player {
   text-align: center;
   display: inline-block;
-  width: 500px;
+  width: 100%;
   margin: 0 auto;
   position: relative;
 }
@@ -91,7 +91,7 @@ body {
 .dealer {
   text-align: center;
   display: inline-block;
-  width: 500px;
+  width: 100%;
   margin: 0 auto;
   position: relative;
 }
