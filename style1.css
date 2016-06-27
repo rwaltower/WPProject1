@@ -84,7 +84,7 @@ body {
   text-align: center;
   display: inline-block;
   width: 250px;
-  margin: 0 auto;
+  margin-bottom: 5px;
   position: relative;
   float: left;
 }
@@ -93,7 +93,7 @@ body {
   text-align: center;
   display: inline-block;
   width: 250px;
-  margin: 0 auto;
+  margin-top: 5px;
   position: relative;
   float: left;
 }
