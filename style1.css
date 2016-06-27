@@ -16,7 +16,7 @@ body {
   text-align: center;
   display: block;
   width: 600px;
-  height: auto;
+  height: 100%;
   margin: 0 auto;
 }
 .card {
