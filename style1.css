@@ -110,6 +110,7 @@ body {
 .extra {
   position: fixed;
   top: 5px;
+  left: 0;
   width: 100%;
   height: auto;
 }
@@ -119,6 +120,7 @@ body {
 }
 
 .info {
+  float: right;
   border: solid;
   border-color: #FFFFFF;
   background-color: rgba(0, 0, 0, 0.35);
