@@ -45,14 +45,14 @@ body {
 .player {
   text-align: center;
   display: inline-block;
-  width: 300px;
+  width: 500px;
   margin: 0 auto;
 }
 
 .dealer {
   text-align: center;
   display: inline-block;
-  width: 300px;
+  width: 500px;
   margin: 0 auto;
 }
 
