@@ -48,8 +48,8 @@ body {
   text-align: center;
   width: 95px;
   display: none;
-  bottom: 130px;
-  left: 20px;
+  bottom: 50px;
+  left: 10px;
 }
 
 .card-layer:hover .card-layer {
