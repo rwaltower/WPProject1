@@ -123,6 +123,10 @@ body {
   float: left;
 }
 
+.exit a {
+  color: #000000;
+}
+
 .info {
   float: right;
   border: solid;
@@ -133,10 +137,8 @@ body {
   height: auto;
 }
 
-button a {
-  color: #000000;
-}
-
 a {
+  font-weight: strong;
   text-decoration: none;
+  color: #FFFFFF;
 }
