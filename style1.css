@@ -73,7 +73,7 @@ body {
 .img_swap1 {
   background-image: url("b1fv.png");
   background-repeat: no-repeat;
-  background-size: 100%
+  background-size: 100%;
   width: 100px;
   height: 135.2px;
 }
@@ -81,7 +81,7 @@ body {
 .img_swap2 {
   background-image: url("b1fv.png");
   background-repeat: no-repeat;
-  background-size: 100%
+  background-size: 100%;
   width: 100px;
   height: 135.2px;
 }
