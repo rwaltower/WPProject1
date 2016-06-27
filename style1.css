@@ -12,6 +12,20 @@ body {
 
 .card {
   
-  width: 100px;
+  width: 200px;
+}
+
+.player {
+  text-align: center;
+  display: inline-block;
+  width: 300px;
+  margin: 0 auto;
+}
+
+.dealer {
+  text-align: center;
+  display: inline-block;
+  width: 300px;
+  margin: 0 auto;
 }
 
