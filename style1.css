@@ -94,7 +94,7 @@ body {
   display: inline-block;
 }
 
-.card-layer:hover .card, .card1-layer:hover .img_swap, .card2-layer:hover .img_swap {
+.card-layer:hover .card, .card1-layer:hover .img_swap1, .card2-layer:hover .img_swap2 {
   opacity: 0.35;
 }
 
