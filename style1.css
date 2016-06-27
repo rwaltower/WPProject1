@@ -64,12 +64,13 @@ body {
   width: 100px;
 }
 
-.card1-layer, .card2-layer {
+.card1-layer, .card2-layer, .card3-layer, .card4-layer {
   width: 100px;
   height: 135px;
   position: relative;
   background-color: #000000;
   display: inline-block;
+  float: left;
 }
 
 .card-layer:hover .card, .card1-layer:hover .card1, .card2-layer:hover .card2 {
