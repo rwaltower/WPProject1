@@ -94,7 +94,7 @@ body {
   height: 135.2px;
 }
 
-.img1 {
+.img2 {
   background-image: url("s8.png");
   background-repeat: no-repeat;
   background-size: 100%;
@@ -163,7 +163,7 @@ body {
   float: left;
 }
 
-.exit a {
+button a {
   color: #000000;
 }
 
