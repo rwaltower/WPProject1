@@ -107,3 +107,13 @@ body {
   position: relative;
 }
 
+.exit {
+  float: left;
+}
+
+.info {
+  border: solid;
+  border-color: #FFFFFF;
+  background-color: rgba(0, 0, 0, 0.35);
+  color: #FFFFFF;
+}
