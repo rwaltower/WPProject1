@@ -110,3 +110,7 @@ body {
   float: right;
 }
 
+.player h3 {
+  position: fixed;
+  bottom: 5px;
+}
