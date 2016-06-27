@@ -87,6 +87,7 @@ body {
   text-align: center;
   position: fixed;
   bottom: 5px;
+  float: left;
 }
 
 .dealer {
@@ -95,6 +96,7 @@ body {
   text-align: center;
   position: fixed;
   top: 5px;
+  float: left;
 }
 
 .img-wrap, .img-wrap2 {
@@ -104,10 +106,3 @@ body {
   position: relative;
 }
 
-.card1-layer, .card3-layer {
-  float: left;
-}
-
-.card2-layer, .card4-layer {
-  float: right;
-}
