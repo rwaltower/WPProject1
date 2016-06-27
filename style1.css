@@ -3,6 +3,8 @@ html {
 }
 body {
   background-image: url("background_img.jpg");
+  background-size: 100%
+  background-repeat: no-repeat;
   color: #FFFFFF;
   font-family: sans-serif;
   height: 100%;
