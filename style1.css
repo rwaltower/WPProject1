@@ -6,5 +6,6 @@ body {
 .title {
   text-align: center;
   display: block;
+  width: 300px;
 }
 
