@@ -1,6 +1,7 @@
 body {
   background-image: url("background_img.jpg");
   color: #FFFFFF;
+  font-family: sans-serif;
 }
 
 .title {
