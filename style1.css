@@ -98,6 +98,7 @@ body {
 
 .img-wrap, .img-wrap2 {
   width: 200px;
+  height: 150px;
   margin: 0 auto;
   position: relative;
   display: inline-block;
