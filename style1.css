@@ -103,4 +103,8 @@ body {
   position: relative;
 }
 
+.card1-layer, .card3-layer {
+  float: left;
+}
+
 
