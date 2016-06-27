@@ -132,3 +132,7 @@ body {
   width: 150px;
   height: auto;
 }
+
+button a {
+  color: #000000;
+}
