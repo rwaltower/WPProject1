@@ -93,13 +93,13 @@ body {
 
 .player {
   width: 100%;
-  height: auto;
+  height: 150px;
   text-align: center;
 }
 
 .dealer {
   width: 100%;
-  height: auto;
+  height: 150px;
   text-align: center;
 }
 
