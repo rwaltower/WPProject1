@@ -1,7 +1,9 @@
 body {
   background-image: url("background_img.jpg");
+  color: #FFFFFF;
 }
 
 .title {
   display: block;
 }
+
