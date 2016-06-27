@@ -32,11 +32,24 @@ body {
   
 }
 
-.caption, .caption1, .caption2, .caption3, .caption4 {
+.caption {
   position: absolute;
   color: #FFFFFF;
   text-align: center;
   width: 95px;
+  display: none;
+  bottom: 130px;
+  left: 50px;
+}
+
+.caption1, .caption2, .caption3, .caption4 {
+  position: absolute;
+  color: #FFFFFF;
+  text-align: center;
+  width: 95px;
+  display: none;
+  bottom: 130px;
+  left: 20px;
 }
 
 .card-layer:hover .card-layer {
@@ -60,7 +73,11 @@ body {
 }
 
 .card-layer:hover .card, .card1-layer:hover .card1, .card2-layer:hover .card2, .card3-layer:hover .card3, .card4-layer:hover .card4 {
-  opacity: 0.25;
+  opacity: 0.35;
+}
+
+.card-layer:hover .caption, .card1-layer:hover .caption1, .card2-layer:hover .caption2, .card3-layer:hover .caption3, .card4-layer:hover .caption4 {
+  display: block;
 }
 
 .player {
