@@ -32,15 +32,6 @@ body {
   
 }
 
-.card1-layer, .card2-layer {
-  
-  float: left;
-}
-
-.card2-layer, .card4-layer {
-  float: right;
-}
-
 .caption {
   position: absolute;
   color: #FFFFFF;
