@@ -98,11 +98,11 @@ body {
   opacity: 0.35;
 }
 
-.card1-layer .img_swap1 {
+.card1-layer:hover .img_swap1 {
   background-image: url("hk.png");
 }
 
-.card2-layer .img_swap2 {
+.card2-layer:hover .img_swap2 {
   background-image: url("s8.png");
 }
 
