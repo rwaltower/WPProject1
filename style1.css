@@ -110,6 +110,8 @@ body {
 .extra {
   position: fixed;
   top: 5px;
+  width: 100%;
+  height: auto;
 }
 
 .exit {
@@ -122,5 +124,5 @@ body {
   background-color: rgba(0, 0, 0, 0.35);
   color: #FFFFFF;
   width: 150px;
-  height: 50px;
+  height: auto;
 }
