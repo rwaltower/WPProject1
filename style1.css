@@ -151,6 +151,10 @@ body {
   position: relative;
 }
 
+.img-wrap {
+  margin-left: ;
+}
+
 .extra {
   position: fixed;
   top: 5px;
@@ -181,4 +185,8 @@ a {
   font-weight: strong;
   text-decoration: none;
   color: #FFFFFF;
+}
+
+table {
+  margin: 0 auto;
 }
