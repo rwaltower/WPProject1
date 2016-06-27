@@ -102,6 +102,7 @@ body {
   width: 200px;
   margin: 0 auto;
   position: relative;
+  display: inline-block;
 }
 
 
