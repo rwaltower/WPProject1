@@ -85,14 +85,16 @@ body {
   width: 310px;
   height: 150px;
   text-align: center;
-
+  position: fixed;
+  bottom: 5px;
 }
 
 .dealer {
   width: 310px;
   height: 150px;
   text-align: center;
-
+  position: fixed;
+  top: 5px;
 }
 
 .img-wrap, .img-wrap2 {
